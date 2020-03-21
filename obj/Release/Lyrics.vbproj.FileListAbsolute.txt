@@ -1,0 +1,12 @@
+F:\07programming\projects\Lyrics\bin\Release\Lyrics.exe.config
+F:\07programming\projects\Lyrics\bin\Release\Lyrics.exe
+F:\07programming\projects\Lyrics\bin\Release\Lyrics.pdb
+F:\07programming\projects\Lyrics\bin\Release\Lyrics.xml
+F:\07programming\projects\Lyrics\bin\Release\System.Net.Http.dll
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.Form1.resources
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.Form2.resources
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.Resources.resources
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.vbproj.GenerateResource.Cache
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.exe
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.xml
+F:\07programming\projects\Lyrics\obj\Release\Lyrics.pdb
